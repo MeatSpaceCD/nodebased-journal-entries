@@ -1,0 +1,25 @@
+{
+    "id": "nodebased-journal-entries",
+    "title": "NodeBased - A Journal Entry Compendium",
+    "description": "Module containing custom journals engineered to translate The Alexandrian's node based design into FoundryVTT.",
+    "authors": [
+        {
+            "name": "MeatSpace",
+            "discord": "MeatSpace#1881"
+        }
+        ],
+    "version": "0.1",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "10"
+        },
+    "packs": [
+        {
+            "name": "templates-journal-entries",
+            "label": "Templates: Journal Entries",
+            "path": "packs/templates-journal-entries.db",
+            "type": "JournalEntry",
+            "private": false
+        }
+    ]
+}
